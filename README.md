@@ -1,7 +1,7 @@
 # João Victor Leal
 
 Graduando em Gestão de T.I
----
+
 ## Atualmente lido com:
 
 <p>
@@ -11,7 +11,6 @@ Graduando em Gestão de T.I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
 </p>
 
----
 ## Pretendo aprender ou já estou aprendendo:
 
 <p>

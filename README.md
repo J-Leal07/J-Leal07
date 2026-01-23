@@ -1,8 +1,8 @@
-# João Victor Leal
+# Sou o João Victor Leal :wave:
 
 Graduando em Gestão de T.I
 
-## Atualmente lido com:
+## ◈ Atualmente lido com:
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
@@ -11,7 +11,7 @@ Graduando em Gestão de T.I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
 </p>
 
-## Pretendo aprender ou já estou aprendendo:
+## ◈ Pretendo aprender ou já estou aprendendo:
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />

@@ -1,5 +1,5 @@
 
-# Olá, sou o João Leal Leal
+# Olá, sou o João Leal
 
 :round_pushpin: Florianópolis, SC
 

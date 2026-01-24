@@ -1,7 +1,8 @@
 
-# Olá, sou Leal
+# Olá, sou o João Leal Leal
 
 :round_pushpin: Florianópolis, SC
+
 Graduando em Gestão de T.I, atualmente estudando JAVA
 
 

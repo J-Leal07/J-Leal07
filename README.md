@@ -1,7 +1,8 @@
 
-# Sou o João Victor Leal :wave:
+# Olá, sou Leal
 
-Graduando em Gestão de T.I
+:round_pushpin: Florianópolis, SC
+Graduando em Gestão de T.I, atualmente estudando JAVA
 
 
 ## ◈ Atualmente lido com:
@@ -10,6 +11,7 @@ Graduando em Gestão de T.I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" />
 </p>
 
 
@@ -17,4 +19,6 @@ Graduando em Gestão de T.I
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="40" />
 </p>

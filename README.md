@@ -1,12 +1,12 @@
+# João Leal
 
-# Olá, sou o João Leal
+Florianópolis, SC  
+Graduando em Gestão de T.I  
+Atualmente estudando Java
 
-:round_pushpin: Florianópolis, SC
+---
 
-Graduando em Gestão de T.I, atualmente estudando JAVA
-
-
-## ◈ Atualmente lido com:
+## Tecnologias
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
@@ -15,8 +15,9 @@ Graduando em Gestão de T.I, atualmente estudando JAVA
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" />
 </p>
 
+---
 
-## ◈ Pretendo aprender ou já estou aprendendo:
+## Estudando
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
